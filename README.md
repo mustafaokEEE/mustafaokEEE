@@ -1,4 +1,4 @@
-- 👋 Hi, I’m an Embedded Software Engineer
+- 👋 Hi, I’m an Electrical-Electronics Engineer
 - 👀 I’m interested in electrical&electronics and software
 - 🌱 I’m currently learning C/C++
 - 💞️ I’m looking to collaborate on ...
